@@ -1,0 +1,36 @@
+{
+  "widget": {
+    "name": "Example_Widget",
+    "short_description": "Короткое описание виджета",
+    "description": "Длинное описание виджета"
+  },
+  "card": {
+    "leads": {
+      "example_input": {
+        "placeholder": "Пример input-а"
+      },
+      "submit": "Отправить",
+      "modal": {
+        "selected": "Selected option",
+        "input": "Input data"
+      }
+    }
+  },
+  "settings": {
+    "field_text": "Поле text",
+    "field_pass": "Поле pass",
+    "field_custom": "Поле custom",
+    "tips": {
+      "equals": "Поля text и pass НЕ должны совпадать",
+      "need_confirm": "Необходимо дать согласие на передачу данных аккаунта amoCRM на сторонний сервис"
+    },
+    "agreement": "Я подтверждаю согласие на передачу данных аккаунта amoCRM на сторонний сервис"
+  },
+  "errors": {
+    "xhr": {
+      "load_links": "Не удалось загрузить связи",
+      "load_leads": "Не удалось загрузить связи",
+      "load_contacts": "Не удалось загрузить связи"
+    }
+  }
+}
