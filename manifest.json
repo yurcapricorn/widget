@@ -5,7 +5,7 @@
     "short_description": "widget.short_description",
     "code": "widget_code_2",
     "secret_key": "0d76503906fc3d0780b7d36a6a8458af7ff4ee12c8411b0dd5e4bf4c21a91d0a",
-    "version": "0.0.2.3",
+    "version": "0.0.2.5",
     "locale": [
       "ru"
     ],

@@ -1,15 +1,15 @@
 define([
-    'http://c20244.shared.hc.ru/test1/js/js/helpers/container.js',
+    'https://c20244.shared.hc.ru/test1/js/js/helpers/container.js',
 
-    'http://c20244.shared.hc.ru/test1/js/js/helpers/render.js',
-    'http://c20244.shared.hc.ru/test1/js/js/helpers/requester.js',
-    'http://c20244.shared.hc.ru/test1/js/js/helpers/i18n.js',
-    'http://c20244.shared.hc.ru/test1/js/js/helpers/logger.js',
+    'https://c20244.shared.hc.ru/test1/js/js/helpers/render.js',
+    'https://c20244.shared.hc.ru/test1/js/js/helpers/requester.js',
+    'https://c20244.shared.hc.ru/test1/js/js/helpers/i18n.js',
+    'https://c20244.shared.hc.ru/test1/js/js/helpers/logger.js',
 
-    'http://c20244.shared.hc.ru/test1/js/js/factories/card_views.js',
+    'https://c20244.shared.hc.ru/test1/js/js/factories/card_views.js',
 
-    'http://c20244.shared.hc.ru/test1/js/js/views/settings.js',
-    'http://c20244.shared.hc.ru/test1/js/js/views/leads_list.js'
+    'https://c20244.shared.hc.ru/test1/js/js/views/settings.js',
+    'https://c20244.shared.hc.ru/test1/js/js/views/leads_list.js'
   ],
   /**
    * @param Container

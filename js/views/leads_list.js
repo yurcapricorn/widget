@@ -1,4 +1,8 @@
-define(['underscore', './base_view.js', './../helpers/container.js', 'es6promise'],
+define(['underscore',
+        'https://c20244.shared.hc.ru/test1/js/js/views/base_view.js',
+        'https://c20244.shared.hc.ru/test1/js/js/helpers/container.js',
+        'es6promise'
+    ],
   /**
    * @param {UnderscoreStatic} _
    * @param {SampleWidgetBaseView} BaseView

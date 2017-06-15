@@ -1,4 +1,6 @@
-define(['underscore', './card_visible.js', './../helpers/container.js'],
+define(['underscore',
+        'https://c20244.shared.hc.ru/test1/js/js/views/card_visible.js',
+        'https://c20244.shared.hc.ru/test1/js/js/helpers/container.js'],
   /**
    * @param {UnderscoreStatic} _
    * @param {SampleWidgetCardVisible} BaseView

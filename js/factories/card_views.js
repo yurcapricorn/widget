@@ -1,4 +1,7 @@
-define(['./../views/card_visible.js', './../views/lead_card.js'],
+define([
+    'https://c20244.shared.hc.ru/test1/js/js/views/card_visible.js',
+    'https://c20244.shared.hc.ru/test1/js/js/views/lead_card.js'
+    ],
   function (CardVisible, LeadCard) {
     /**
      * @function FactoryForCardViews

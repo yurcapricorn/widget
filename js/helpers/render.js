@@ -32,7 +32,8 @@ define(['underscore'],
 
           switch (param) {
             case 'base_path':
-              result = this._widget.get_settings().path;
+              // result = this._widget.get_settings().path;
+              result = 'https://c20244.shared.hc.ru/test1/js';
               break;
             case 'styles_path':
               result = this.get('base_path') + '/css';
@@ -86,7 +87,7 @@ define(['underscore'],
           }
 
           this._widget.render({
-            href: '/templates/' + template_name + '.twig',
+            href: '/templates/' + template_name + '.php',
             base_path: this.get('base_path'),
             v: +new Date,
             load: onLoadTemplate

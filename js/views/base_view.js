@@ -1,4 +1,4 @@
-define(['backbone', 'jquery', './../helpers/container.js'],
+define(['backbone', 'jquery', 'https://c20244.shared.hc.ru/test1/js/js/helpers/container.js'],
   /**
    * @param {Backbone} Backbone
    * @param {Backbone.View} Backbone.View

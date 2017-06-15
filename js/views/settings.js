@@ -1,4 +1,4 @@
-define(['underscore', 'http://c20244.shared.hc.ru/test1/js/js/views/base_view.js'],
+define(['underscore', 'https://c20244.shared.hc.ru/test1/js/js/views/base_view.js'],
   /**
    * @param {UnderscoreStatic} _
    * @param {SampleWidgetBaseView} BaseView
