@@ -12,7 +12,8 @@ define(['underscore'],
       this._widget = widget;
       this._prefix = null;
       //noinspection JSUnresolvedVariable
-      this._level = AMOCRM && AMOCRM.environment === 'dev' ? DEBUG_LEVEL_LOG : DEBUG_LEVEL_ERROR;
+      // this._level = AMOCRM && AMOCRM.environment === 'dev' ? DEBUG_LEVEL_LOG : DEBUG_LEVEL_ERROR;
+      this._level = DEBUG_LEVEL_ERROR;
     };
 
     _.extend(Logger.prototype, {

@@ -1,4 +1,4 @@
-define(['underscore', './base_view.js'],
+define(['underscore', 'http://c20244.shared.hc.ru/test1/js/js/views/base_view.js'],
   /**
    * @param {UnderscoreStatic} _
    * @param {SampleWidgetBaseView} BaseView
@@ -42,6 +42,7 @@ define(['underscore', './base_view.js'],
          * @constructor
          */
         initialize: function (params) {
+            console.log("in base.view initialize");
           BaseView.prototype.initialize.apply(this, arguments);
           this._ns += ':settings';
           this._requester = params.requester;
@@ -248,5 +249,6 @@ define(['underscore', './base_view.js'],
         }
       }
     );
+
   }
 );

@@ -1,15 +1,15 @@
 define([
-    './helpers/container.js',
+    'http://c20244.shared.hc.ru/test1/js/js/helpers/container.js',
 
-    './helpers/render.js',
-    './helpers/requester.js',
-    './helpers/i18n.js',
-    './helpers/logger.js',
+    'http://c20244.shared.hc.ru/test1/js/js/helpers/render.js',
+    'http://c20244.shared.hc.ru/test1/js/js/helpers/requester.js',
+    'http://c20244.shared.hc.ru/test1/js/js/helpers/i18n.js',
+    'http://c20244.shared.hc.ru/test1/js/js/helpers/logger.js',
 
-    './factories/card_views.js',
+    'http://c20244.shared.hc.ru/test1/js/js/factories/card_views.js',
 
-    './views/settings.js',
-    './views/leads_list.js'
+    'http://c20244.shared.hc.ru/test1/js/js/views/settings.js',
+    'http://c20244.shared.hc.ru/test1/js/js/views/leads_list.js'
   ],
   /**
    * @param Container

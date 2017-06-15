@@ -1,11 +1,11 @@
 define([
     'json!./manifest.json',
     'underscore',
-    './js/views/settings.js',
-    './js/views/leads_list.js',
-    './js/helpers/container.js',
-
-    './js/bootstrap.js'
+    'jquery',
+    'http://c20244.shared.hc.ru/test1/js/js/views/settings.js',
+    'http://c20244.shared.hc.ru/test1/js/js/views/leads_list.js',
+    'http://c20244.shared.hc.ru/test1/js/js/helpers/container.js',
+    'http://c20244.shared.hc.ru/test1/js/js/bootstrap.js'
   ],
   /**
    * @param {Manifest} manifest
@@ -21,6 +21,7 @@ define([
    */
   function (manifest,
             _,
+            $,
             Settings,
             LeadsList,
             Container,

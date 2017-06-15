@@ -1,8 +1,8 @@
 {
   "widget": {
-    "name": "Example_Widget",
-    "short_description": "Короткое описание виджета",
-    "description": "Длинное описание виджета"
+    "name": "WTF_Widget",
+    "short_description": "WTF short",
+    "description": "WTF long"
   },
   "card": {
     "leads": {

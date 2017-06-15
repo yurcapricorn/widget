@@ -3,9 +3,9 @@
     "name": "widget.name",
     "description": "widget.description",
     "short_description": "widget.short_description",
-    "code": "widget_code_1",
-    "secret_key": "9a5e4500fc153d8950bbcc36bdb6ff48dfef5107080c90d26b0c43488c3dce0f",
-    "version": "0.0.2",
+    "code": "widget_code_2",
+    "secret_key": "0d76503906fc3d0780b7d36a6a8458af7ff4ee12c8411b0dd5e4bf4c21a91d0a",
+    "version": "0.0.2.3",
     "locale": [
       "ru"
     ],
