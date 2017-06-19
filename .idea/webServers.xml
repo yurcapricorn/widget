@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff8f55c7-7342-409d-8a2d-716d8ae8e4f0" name="ftp2" url="http://ftp.c20244.shared.hc.ru">
+        <fileTransfer host="ftp.c20244.shared.hc.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,36 +1,12 @@
 {
-  "widget": {
-    "name": "WTF_Widget",
-    "short_description": "WTF short",
-    "description": "WTF long"
-  },
-  "card": {
-    "leads": {
-      "example_input": {
-        "placeholder": "Пример input-а"
-      },
-      "submit": "Отправить",
-      "modal": {
-        "selected": "Selected option",
-        "input": "Input data"
-      }
-    }
-  },
-  "settings": {
-    "field_text": "Поле text",
-    "field_pass": "Поле pass",
-    "field_custom": "Поле custom",
-    "tips": {
-      "equals": "Поля text и pass НЕ должны совпадать",
-      "need_confirm": "Необходимо дать согласие на передачу данных аккаунта amoCRM на сторонний сервис"
+    "widget":{
+        "name":"Мой виджет",
+        "short_description":"Короткое описание виджета",
+        "description":"Полное описание виджета"
     },
-    "agreement": "Я подтверждаю согласие на передачу данных аккаунта amoCRM на сторонний сервис"
-  },
-  "errors": {
-    "xhr": {
-      "load_links": "Не удалось загрузить связи",
-      "load_leads": "Не удалось загрузить связи",
-      "load_contacts": "Не удалось загрузить связи"
+    "settings":{
+        "login":"Логин",
+        "api_key":"ключ API",
+        "account":"Аккаунт"
     }
-  }
 }
